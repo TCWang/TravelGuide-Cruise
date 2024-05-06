@@ -1,1 +1,0 @@
-import{u as s,c as t,o as a,a as e}from"./c2XioC6V.js";const o={class:"container"},c=e("div",{class:"flex flex-row flex-wrap"},[e("div",{class:"w-full md:w-1/2"},[e("h1",null,"備忘錄")])],-1),l=[c],i={__name:"memo",setup(_){return s({title:"備忘錄"}),(n,r)=>(a(),t("div",o,l))}};export{i as default};
