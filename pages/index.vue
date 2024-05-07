@@ -82,7 +82,50 @@
           </li>
         </ul>
       </div>
-      <div class="w-full md:w-1/2"></div>
+      <div class="w-full md:w-1/2">
+        <h2>郵輪公司</h2>
+        <ul>
+          <li>
+            <a href="https://www.ncl.com/ca/en/"
+              >Norwegian Cruise Line 挪威郵輪公司</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://www.royalcaribbean.com/hkg/zh/cruise-from/vancouver-british-columbia"
+              >Royal Caribbean International 皇家加勒比國際</a
+            >
+          </li>
+
+          <li>
+            <a href="https://www.princess.com/">Princess Cruise 公主郵輪 </a>
+          </li>
+          <li>
+            <a href="https://www.hollandamerica.com/en_US.html"
+              >Holland America Line 荷美郵輪</a
+            >
+          </li>
+          <li>
+            <a href="https://www.celebritycruises.com/"
+              >Celebrity Curises 名人/菁英遊輪</a
+            >
+          </li>
+          <li>
+            <a href="https://disneycruise.disney.go.com/"
+              >Disney Cruise 迪士尼遊輪</a
+            >
+          </li>
+
+          <li>
+            <a href="https://www.carnival.com/"
+              >Carnival Cruise Lines 嘉年華郵輪公司</a
+            >
+          </li>
+          <li>
+            <a href="https://www.msccruises.ca/">MSE Cruises 地中海邮轮</a>
+          </li>
+        </ul>
+      </div>
     </div>
   </div>
 </template>
