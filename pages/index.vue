@@ -125,6 +125,45 @@
             <a href="https://www.msccruises.ca/">MSE Cruises 地中海邮轮</a>
           </li>
         </ul>
+
+        <br />
+        <h2>台灣旅行社</h2>
+        <ul>
+          <li>
+            <a href="https://www.ncl.com/ca/en/vacations?cruise-port=van"
+              >Norwegian Cruise Line 挪威郵輪公司</a
+            >
+          </li>
+          <li>
+            <a href="https://www.princesscruises.com.tw/">Princess 公主郵輪</a>
+          </li>
+          <li>
+            <a href="https://www.travel4u.com.tw/">山富旅遊</a>
+          </li>
+          <li>
+            <a
+              href="https://travel.liontravel.com/category/zh-tw/cruise/index?fr=cg203mega"
+              >雄獅旅遊</a
+            >
+          </li>
+          <li>
+            <a href="https://www.fantasy-tours.com/Travel/Content?ac=C&cn=SSQ"
+              >上順旅遊</a
+            >
+          </li>
+          <li>
+            <a href="https://tour.settour.com.tw/cruise.html">東南旅遊</a>
+          </li>
+          <li>
+            <a
+              href="https://travel.gounitravel.com/category/zh-tw/cruise/index?fr=cg5149mega"
+              >旅天下 旅遊</a
+            >
+          </li>
+          <li>
+            <a href="https://vacation.eztravel.com.tw/cruise/">易遊網 旅遊</a>
+          </li>
+        </ul>
       </div>
     </div>
   </div>
