@@ -82,3 +82,8 @@ const posts = computed(() => {
   return result;
 });
 </script>
+<style scoped>
+.column {
+  @apply flex  py-1;
+}
+</style>
