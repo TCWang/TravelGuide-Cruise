@@ -1,6 +1,6 @@
 <template>
   <section class="w-full max-w-6xl not-prose">
-    <h2>郵輪旅遊 - 郵輪航線</h2>
+    <h2>畢業50旅遊 - 旅遊路線</h2>
     <div class="column space-x-24 ml-6">
       <div>類別</div>
       <div>標題</div>

@@ -2,7 +2,7 @@
   <div class="container">
     <div class="flex flex-row flex-wrap">
       <div class="w-full md:w-1/2">
-        <h1>郵輪旅遊</h1>
+        <h1>畢業50旅遊</h1>
         <h2>郵輪旅遊網站</h2>
         <ul>
           <li>

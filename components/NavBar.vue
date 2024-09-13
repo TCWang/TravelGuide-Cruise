@@ -31,10 +31,10 @@
             <a
               href="/cruise"
               class="active border-b-2 border-blue-500 pb-1 text-white"
-              >郵輪航線</a
+              >旅遊路線</a
             >
           </li>
-          <li><a href="/line" class="text-white">航線規劃</a></li>
+          <li><a href="/line" class="text-white">行程規劃</a></li>
           <li><a href="/attraction" class="text-white">景點規劃</a></li>
           <li><a href="/calendar" class="text-white">旅遊行程</a></li>
           <li>
@@ -103,12 +103,12 @@
         <ul style="list-style: none" class="divide-y text-gray-700">
           <li>
             <a href="/cruise" @click="isOpen = false" class="my-2 inline-block"
-              >郵輪航線</a
+              >旅遊路線</a
             >
           </li>
           <li>
             <a href="/line" @click="isOpen = false" class="my-2 inline-block"
-              >航線規劃</a
+              >行程規劃</a
             >
           </li>
           <li>
